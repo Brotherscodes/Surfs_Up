@@ -33,7 +33,7 @@ The average temperature for June in Oahu, HI is 74.9°F <br />
 - Temperatures in June had a range of 21°F
 <br />
 
-<img src="Images/june_temp_stats_summary.tiff" width=250/> <img src='Images/june_temps_hist.png' width=650/>
+<img src="Images/june_temp_stats_summary.tiff" width=250/> <img src='Images/june_temps_hist.png' width=400/>
 
 
 <br />
@@ -47,7 +47,7 @@ The average temperature for December in Oahu, HI is 71.0°F <br />
 
 <br />
 
-<img src="Images/dec_temp_stats_summary.tiff" width=275/> <img src='Images/dec_temps_hist.png' width=650/>
+<img src="Images/dec_temp_stats_summary.tiff" width=275/> <img src='Images/dec_temps_hist.png' width=400/>
 
 <br />
 <br />
