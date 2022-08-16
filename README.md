@@ -70,11 +70,11 @@ I analyzed the number of weather stations that were actively collecting data. Th
 
 <br />
 
-I created the `app.py` python file to run a Flask application that easily allowed the sharing of my findings in an easy-to-interpret way. A sample of the code written for this task is below as well as the resulting website for the Flask routes created and the data it queried.
+I created the `app.py` python file to run a Flask application that easily allowed the sharing of my findings in an easy-to-interpret way. The code written for this task is below as well as the resulting website for the Flask routes created and the data it queried. 
 
 
 <p align='center'>
-<img src="Images/flask_code.png" width=500/> <img src="Images/webpage_flask_results.png" width=500/>
+<img src="Images/flask_code.png" width=600/> <img src="Images/webpage_flask_results.png" width=700/>
 
 
 
