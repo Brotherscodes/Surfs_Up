@@ -74,13 +74,43 @@ I created the `app.py` python file to run a Flask application that easily allowe
 
 
 <p align='center'>
-<img src="Images/flask_code.png" width=600/> <img src="Images/webpage_flask_results.png" width=700/>
+<img src="Images/flask_code.png" width=550/> <img src="Images/webpage_flask_results.png" width=550/>
+
+<br />
+<br />
+
+# March and September Weather Analysis:
+
+<br />
+
+- Our maximum and minimum temperatures recorded in March and September are simlar to those recorded in June and December.
+
+<br />
+
+<p align='center'>
+<img src="Images/march_temp_stats_summary.tiff" width=275/> <img src="Images/march_temps_hist.png" width=625/>
 
 
+<br />
+<br />
+
+<p align='center'>
+<img src="Images/sept_temp_stats_summary.tiff" width=275/> <img src="Images/sept_temps_hist.png" width=625/>
+
+<br />
+<br />
+
+
+
+## Possible additional query:
+- Precipitation Measurment comparison between the Four months we analyzed.
+
+<br />
 
 ## Summary: <br />
 
-This analysis has helped W.Avy determine that Oahu, HI is an ideal location to open his Surf n' Shake shop. The data from June and December weather suggests that there is no dramatic fluctuation in temperature throughout the year. This further supports that this investment would be a viable business year-round.
+This analysis has helped W.Avy determine that Oahu, HI is an ideal location to open his Surf n' Shake shop. The data from June and December weather suggests that there is no dramatic fluctuation in temperature throughout the year. The same conclusion can be made for the weather analyzed for March and September as well. This further supports that this investment would be a viable business year-round.
+
 
 
 <br />
