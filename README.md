@@ -54,6 +54,28 @@ The average temperature for December in Oahu, HI is 71.0°F <br />
 <br />
 <br />
 
+# Temperature Observation (TOBS):
+
+We analyzed the number of weather stations that were actively collecting data. There was a total of (9) weather stations. Station USC00519281 showed the highest number of observations, therefore we graphed its recorded weather for a better visualization of the data. 
+
+<br />
+
+<p align='center'>
+<img src="Images/temp_observ(tobs).png" width=/>
+
+
+
+
+
+
+
+## Summary: <br />
+
+This analysis has helped W.Avy determine that Oahu, HI is an ideal location to open his Surf n' Shake shop. The data from June and December weather suggests that there is no dramatic fluctuation in temperature throughout the year. This further supports that this investment would be a viable business year-round.
+
+
+<br />
+
 ## Resources:
 
 - hawaii.sqlite (Weather DataBase located in Resources folder)
