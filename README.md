@@ -34,7 +34,7 @@ The average temperature for June in Oahu, HI is 74.9°F <br />
 <br />
 
 <p align='center'>
-<img src="Images/june_temp_stats_summary.tiff" width=250/> <img src='Images/june_temps_hist.png' width=625/>
+<img src="Images/june_temp_stats_summary.tiff" width=215/> <img src='Images/june_temps_hist.png' width=575/>
 
 
 <br />
@@ -49,7 +49,7 @@ The average temperature for December in Oahu, HI is 71.0°F <br />
 <br />
 
 <p align='center'>
-<img src="Images/dec_temp_stats_summary.tiff" width=275/> <img src='Images/dec_temps_hist.png' width=625/>
+<img src="Images/dec_temp_stats_summary.tiff" width=250/> <img src='Images/dec_temps_hist.png' width=575/>
 
 <br />
 <br />
@@ -88,14 +88,14 @@ I created the `app.py` python file to run a Flask application that easily allowe
 <br />
 
 <p align='center'>
-<img src="Images/march_temp_stats_summary.tiff" width=275/> <img src="Images/march_temps_hist.png" width=625/>
+<img src="Images/march_temp_stats_summary.tiff" width=215/> <img src="Images/march_temps_hist.png" width=575/>
 
 
 <br />
 <br />
 
 <p align='center'>
-<img src="Images/sept_temp_stats_summary.tiff" width=275/> <img src="Images/sept_temps_hist.png" width=625/>
+<img src="Images/sept_temp_stats_summary.tiff" width=240/> <img src="Images/sept_temps_hist.png" width=575/>
 
 <br />
 <br />
