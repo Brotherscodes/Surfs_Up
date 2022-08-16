@@ -74,7 +74,7 @@ I created the `app.py` python file to run a Flask application that easily allowe
 
 
 <p align='center'>
-<img src="Images/flask_code.png" width=600/> <img src="Images/webpage_flask_results.png" width=700/>
+<img src="Images/flask_code.png" width=550/> <img src="Images/webpage_flask_results.png" width=550/>
 
 
 
