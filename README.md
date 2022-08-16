@@ -75,7 +75,6 @@ I created the `app.py` python file to run a Flask application that easily allowe
 
 <p align='center'>
 <img src="Images/flask_code.png" width=550/> <img src="Images/webpage_flask_results.png" width=550/>
-<<<<<<< HEAD
 
 <br />
 <br />
@@ -90,8 +89,6 @@ I created the `app.py` python file to run a Flask application that easily allowe
 
 <p align='center'>
 <img src="Images/march_temp_stats_summary.tiff" width=275/> <img src="Images/march_temps_hist.png" width=625/>
-=======
->>>>>>> bb780011d0d3f133a09eb59b978995b59c70b3f6
 
 
 <br />
