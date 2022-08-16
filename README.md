@@ -56,16 +56,25 @@ The average temperature for December in Oahu, HI is 71.0°F <br />
 
 # Temperature Observation (TOBS):
 
-We analyzed the number of weather stations that were actively collecting data. There was a total of (9) weather stations. Station USC00519281 showed the highest number of observations, therefore we graphed its recorded weather for a better visualization of the data. 
+I analyzed the number of weather stations that were actively collecting data. There was a total of (9) weather stations. Station USC00519281 showed the highest number of observations, therefore I graphed its recorded weather for a better visualization of the data. 
 
 <br />
 
 <p align='center'>
 <img src="Images/temp_observ(tobs).png" width=/>
 
+<br />
+<br />
+
+# Incorporating `Flask` into the Data Analysis:
+
+<br />
+
+I created the `app.py` python file to run a Flask application that easily allowed the sharing of my findings in an easy-to-interpret way. A sample of the code written for this task is below as well as the resulting website for the Flask routes created and the data it queried.
 
 
-
+<p align='center'>
+<img src="Images/flask_code.png" width=500/> <img src="Images/webpage_flask_results.png" width=500/>
 
 
 
