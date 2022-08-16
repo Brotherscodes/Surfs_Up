@@ -83,7 +83,7 @@ I created the `app.py` python file to run a Flask application that easily allowe
 
 <br />
 
-- Our maximum and minimum temperatures recorded in March and September are simlar to those recorded in June and December.
+- Our maximum and minimum temperatures recorded in March and September are similar to those recorded in June and December.
 
 <br />
 
