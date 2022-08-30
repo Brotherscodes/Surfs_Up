@@ -5,7 +5,7 @@ An analysis of June and December weather for Oahu, HI using SQLAlchemy to access
 
 ## Background:
 
-Our Investor "W. Avy" is considering opening a `Surf and Ice Cream shop in Oahu, HI.` In the past, he has invested in similar business opportunites which failed due to inclement weather. He has asked for a weather anaylsis of Oahu, specifically in the months of June and December to determine if this would be a viable investment year round. His business decision rides on the statistical analysis we will provide in this project.
+Our Investor "W. Avy" is considering opening a `Surf and Ice Cream shop in Oahu, HI.` In the past, he has invested in similar business opportunities which failed due to inclement weather. He has asked for a weather analysis of Oahu, specifically in the months of June and December to determine if this would be a viable investment year round. His business decision rides on the statistical analysis we will provide in this project.
 
 <br />
 
@@ -17,7 +17,7 @@ Our Investor "W. Avy" is considering opening a `Surf and Ice Cream shop in Oahu,
 
 ## Outline: 
 
-`SQLAlchemy` was used to connect and generate the queries needed to pull out neccessary information from the `SQLite` wheather database (`"hawaii.sqlite"`) we were provided. Below is a sample of the dependencies and functions that were used to access the SQLite database and start our weather analysis.
+`SQLAlchemy` was used to connect and generate the queries needed to pull out necessary information from the `SQLite` weather database (`"hawaii.sqlite"`) we were provided. Below is a sample of the dependencies and functions that were used to access the SQLite database and start our weather analysis.
 
 <br />
 <p align='center'>
